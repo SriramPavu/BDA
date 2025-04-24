@@ -1,4 +1,4 @@
-# #Setup instructions
+#Setup instructions
 
 **Blozor**
 1. Install Visual Studio 2022 with the “.NET desktop & web development” workload (.NET 8 SDK included).
@@ -11,3 +11,8 @@
 
 Data isn’t reaching the front‑end—the app throws connection‑string errors and can’t open the database.
 In the controller, an “invalid object reference” error from DbContext suggests the table (or view) doesn’t exist or the model is mis‑mapped. 3.Data does come through, but the JSON format is incorrect.
+
+Output:
+=======
+(https://github.com/user-attachments/assets/6156f49b-d9d2-4636-a897-cc9234e373f7)
+
